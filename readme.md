@@ -1,11 +1,4 @@
-# CIS2520-F24-A3
-
-### Student Information 
-Name : Betty Vuong
-
-Student Number : 1271673
-
-### Assignment Overview
+### Overview
 What is the assignment about?  
 The assignment focuses on using binary trees and heaps for two components of the assignment.
 
